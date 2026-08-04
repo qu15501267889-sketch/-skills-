@@ -106,6 +106,10 @@ pip install "lunar_python>=1.4.8,<2" "tzdata>=2024.1"
 - 排盘脚本使用 [lunar_python](https://pypi.org/project/lunar-python/) 库
 - 耄耋人格设计参考了心理动力学、人本主义、接纳承诺疗法等心理学框架
 
+## 免责声明
+
+本仓库内容用于 AI 心理分析和传统术数的工程化表达与 AI 约束实验，不构成医疗、法律、财务或其他现实决策建议。
+
 ## 许可
 
 MIT
